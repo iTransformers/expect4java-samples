@@ -22,7 +22,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * Created by cpt2vyo on 18.1.2017 г..
+ * Created by Vasil Yordanov on 18.1.2017 г..
  */
 public class SshExample {
     public static void main(String[] args) throws Exception {
